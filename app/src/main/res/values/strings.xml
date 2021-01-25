@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Movie Database API</string>
+    <string name="image_logo_movie">Image Logo Movie</string>
+</resources>
